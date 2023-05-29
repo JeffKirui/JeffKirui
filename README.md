@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and Javascript.
 - 💞️ I’m looking to collaborate with other developers.
 
-🛠️ Languages and Tools :
+# 🛠️ Languages and Tools :
 
 Git JavaScript  HTML  CSS  React Python
 

@@ -18,7 +18,6 @@
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/Big_Daddy254#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Big_Daddy254#gh-dark-mode-only)
 
 #
 Here are some ideas to get you started:

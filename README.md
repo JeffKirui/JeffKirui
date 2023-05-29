@@ -14,12 +14,6 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
           
 #
-
-### Connect with me:
-
-
-
-#
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working with Python

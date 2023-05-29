@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 ---
 ### :fire: My Stats :
-![JeffKirui's GitHub stats](https://github-readme-stats.vercel.app/api?username=preshpi&show_icons=true&theme=tokyonight)
+![JeffKirui's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffkirui&show_icons=true&theme=tokyonight)
 <!--

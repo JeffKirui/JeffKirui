@@ -4,20 +4,25 @@
 
 ---
 
-### 🛠️ Languages and Tools :
+#### 🛠️ Languages and Tools :
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+div>          
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+ <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />;
+          
+---  
+</div>
+Here are some ideas to get you started:
+- 🔭 I’m currently working with Python
+- 🌱 I’m currently learning HTML and CSS
+- 👯 I’m looking to collaborate on Software Engineering 
+- 💬 Ask me about anything tech <a href="mailto:kipkoechG@gmail.com"> kipkoechG@gmail.com</a>
 
 ---
-          
-🔭 I’m currently working with Python
-
-🌱 I’m currently learning HTML and CSS
-
-👯 I’m looking to collaborate on Software Engineering
-
-💬 Ask me about anything tech kipkoechG@gmail.com
-
+### :fire: My Stats :
+![Jeff Kirui's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffkirui&show_icons=true&theme=tokyonight)
+<!--

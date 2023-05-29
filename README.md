@@ -1,9 +1,11 @@
-# Hi, I'm Jeff 👋.
+### Hi, I'm Jeff 👋.
 
- I am a Software Engineer and Cloud Practitioner
+ I am a Full Stack Developer and Cloud Practitioner building my tech world one step at a time. All my coding projects are built from the ground up, from planning to designing all the way to solving real-life problems with codes.
 
-# 🛠️ Languages and Tools :
+### 🛠️ Languages and Tools :
 
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
 
 
 

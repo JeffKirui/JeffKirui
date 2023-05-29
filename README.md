@@ -15,6 +15,20 @@
           
 #
 
+### Connect with me:
+
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC8ZvqM5A17BZnxDUDE_hCgQ)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC8ZvqM5A17BZnxDUDE_hCgQ)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/Big_Daddy254)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Big_Daddy254)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/geoffrey-kirui-93892829/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/geoffrey-kirui-93892829/)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/dr_red_pill/?hl=en)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/dr_red_pill/?hl=en)
+#
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working with Python

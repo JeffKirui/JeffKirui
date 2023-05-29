@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Jeff 👋.
+# Hi, I'm Jeff 👋.
 - 👀 I’m interested in Software Engineering and Cloud Computing.
 - 🌱 I’m currently learning Python and Javascript.
 - 💞️ I’m looking to collaborate with other developers.

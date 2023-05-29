@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Big_Daddy254#gh-light-mode-only)&nbsp;
+
 
 #
 Here are some ideas to get you started:

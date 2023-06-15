@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working with Python
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 👯 I’m looking to collaborate on Software Engineering and Cloud Computing
+- 👯 I’m looking to collaborate on Web Development and Cloud Computing
 - 💬 Ask me about anything tech <a href="mailto:kipkoechG@gmail.com"> kipkoechG@gmail.com</a>
 
 ---

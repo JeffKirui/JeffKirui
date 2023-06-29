@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 ![JeffKirui's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffkirui&show_icons=true&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JeffKirui&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=JeffKirui&label=Profile%20Views&color=9&icon=0&pretty=false)](https://visitcount.itsvg.in)

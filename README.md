@@ -27,9 +27,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything tech <a href="mailto:kipkoechG@gmail.com"> kipkoechG@gmail.com</a>
 
 ---
-### :fire: My Stats :
-![JeffKirui's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffkirui&show_icons=true&theme=tokyonight)
-
 #
 [![](https://visitcount.itsvg.in/api?id=JeffKirui&label=Profile%20Views&color=9&icon=0&pretty=false)](https://visitcount.itsvg.in)
 

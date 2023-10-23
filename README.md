@@ -1,6 +1,9 @@
+[![Codewars](https://www.codewars.com/users/JeffKirui/badges/large)](https://www.codewars.com/users/JeffKirui/)
+
 ### Hi, I'm Jeff 👋.
 
  I am a Full Stack Developer and Cloud Practitioner building my tech world one step at a time. All my coding projects are built from the ground up, from planning to designing all the way to solving real-life problems with codes.
+ Currently undergoing a 12-month Software Engineering course with the African Leadership Group (ALx) to enhance my programming skills.
 
 ---
 

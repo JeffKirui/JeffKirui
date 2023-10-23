@@ -3,7 +3,7 @@
 ### Hi, I'm Jeff 👋.
 
  I am a Full Stack Developer and Cloud Practitioner building my tech world one step at a time. All my coding projects are built from the ground up, from planning to designing all the way to solving real-life problems with codes.
- Currently undergoing a 12-month Software Engineering course with the African Leadership Group (ALx) to enhance my programming skills.
+ Currently undergoing a 12-month Software Engineering course with the African Leadership Group (ALX) to enhance my programming skills.
 
 ---
 
@@ -25,7 +25,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working with Python
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning Python and JavaScript
 - 👯 I’m looking to collaborate on Web Development and Cloud Computing
 - 💬 Ask me about anything tech <a href="mailto:kipkoechG@gmail.com"> kipkoechG@gmail.com</a>
 
